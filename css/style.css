@@ -318,9 +318,6 @@ header {
 .specifications_mobile_box {
     display: flex;
 }
-.volume_box {
-    display: flex;
-}
 .rating_mobile {
     display: flex;
 }
